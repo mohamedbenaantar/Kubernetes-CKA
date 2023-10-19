@@ -21,12 +21,11 @@
   kubeadm upgrade apply 1.27.0
 ```
 
-## For more Info Check the documentation
-<a href="https://v1-27.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/">Upgrade the Kubeadm Cluster</a>
-
 ### Update the kubelet 
+
 ```sh
 systemctl daemon-reload
 systemctl restart kubelet
-
 ```
+## For more Info Check the documentation
+<a href="https://v1-27.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/">Upgrade the Kubeadm Cluster</a>
