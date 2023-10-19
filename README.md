@@ -1,4 +1,4 @@
-<h2>Kubernetes</h2> <img src="images/kubernetes-logo.png" alt="Kubernetes logo" width="60" height="60">
+<h1>Kubernetes<img src="images/kubernetes-logo.png" alt="Kubernetes logo" width="60" height="60"></h1>
 
 ## Option1: Setting Up a Kubernetes Cluster with kubeadm
 This repository provides step-by-step instructions and resources for setting up a Kubernetes cluster from scratch using kubeadm. Whether you're new to Kubernetes or need a refresher, this guide will help you get started with your own Kubernetes cluster.
@@ -16,8 +16,8 @@ To SetUp the Kubernetes cluster using the Kubeadm Follow The Instructions at <a 
 --> Make sure to create ETCD BackUp before do the upgrade then follow the Principal Layers Listed at <a href="https://github.com/mohamedbenaantar/Kubernetes-CKA/blob/main/SetUp-KubeadmCluster/Kubedm-Upgrade.md">Upgrade the cluster</a>
 
 ## Option3: SetUp the Kubernetes Cluster from scratch 
-
+<p align="center>
 <img src="images/kubernetes-architecture.png" alt="Kubernetes Architecture" width="600" height="600">
-
-If you prefer to manually configure the cluster by deploying individual components, follow the steps listed at <a href="https://github.com/mohamedbenaantar/Kubernetes-CKA/blob/main/Cluster-HardWay>SetUp Cluster from Scratch</a>
+</p>
+If you prefer to manually configure the cluster by deploying individual components, follow the steps listed at <a href="Cluster-HardWay">SetUp Cluster from Scratch</a>
 
