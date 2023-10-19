@@ -1,4 +1,4 @@
-### If the cluster already setUp using kubeadm follow the Instructions to Upgrade it
+### If the cluster already setUp using kubeadm follow the Instructions to Upgrade it from 1.26 to 1.27.0
 
 ```sh
   apt-cache madison kubeadm
