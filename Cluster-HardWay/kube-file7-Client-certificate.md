@@ -1,4 +1,4 @@
-## In order to get access to the cluster apiserver to perform commands you need a certificate "he is who say he is"
+## In order to get access to the cluster apiserver to perform commands you need a certificate "he is who he says he is"
 
 #### Step 1. Generate Certificate for Administrator User
 
