@@ -25,5 +25,5 @@ To SetUp the Kubernetes cluster using the Kubeadm Follow The Instructions at <a 
 <img src="images/kubernetes-architecture.png" alt="Kubernetes Architecture" width="600" height="600">
 </p>
 
-==> If you prefer to manually configure the cluster by deploying individual components, follow the steps listed at <a href="Cluster-HardWay">SetUp Cluster from Scratch</a><
+==> <p> If you prefer to manually configure the cluster by deploying individual components, follow the steps listed at <strong><a href="Cluster-HardWay">SetUp Cluster from Scratch</a></strong></p>
 
