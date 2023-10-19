@@ -140,3 +140,8 @@
   systemctl status kube-apiserver
   systemctl enable kube-apiserver
 ```
+
+### Documentation Reference
+https://kubernetes.io/docs/reference/command-line-tools-reference/kube-apiserver/
+
+https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
