@@ -1,4 +1,4 @@
-<img src="images/kubernetes-logo.png" alt="Kubernetes logo" width="60" height="60">
+<h1>Kubernetes <img src="images/kubernetes-logo.png" alt="Kubernetes logo" width="60" height="60"></h1>
 
 ## Option1: Setting Up a Kubernetes Cluster with kubeadm
 This repository provides step-by-step instructions and resources for setting up a Kubernetes cluster from scratch using kubeadm. Whether you're new to Kubernetes or need a refresher, this guide will help you get started with your own Kubernetes cluster.
